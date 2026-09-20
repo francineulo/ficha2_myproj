@@ -1,2 +1,4 @@
 Este é o exemplo de um ficheiro de texto file3
 
+Mais algumas alterações no ficheiro 3
+
